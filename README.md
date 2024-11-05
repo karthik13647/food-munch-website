@@ -15,3 +15,6 @@ Convenient Payment Options: The website provides a variety of hassle-free paymen
 Conclusion
 
 Food Munch is not just a restaurant management website; it is a gateway to enjoying fine dining at home. With its focus on quality, convenience, and customer satisfaction, it aims to make every meal a delightful experience. Visit the website to explore the menu and take advantage of the great offers available!
+
+
+© 2024 Karthik Batta. All rights reserved.
